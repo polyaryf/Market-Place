@@ -1,0 +1,124 @@
+/* 
+  Localizable.strings
+  store
+
+  Created by Evelina on 30.06.2023.
+  
+*/
+
+"error" = "Проверьте соединение с сетью и обновите страницу";
+"refresh" = "Обновить";
+"change" = "Изменить";
+"cancel" = "Отмена";
+"continue" = "Продолжить";
+
+"cart.title" = "Корзина";
+"cart.products" = "Товары";
+"cart.price" = "Итоговая стоимость";
+"cart.order" = "Оформить";
+"cart.empty" = "В корзине пока пусто";
+"cart.to_catalog" = "Перейти в каталог";
+"cart.delete_one" = "Вы точно хотите удалить выбранный товар? Отменить данное действие будет невозможно.";
+"cart.delete_all" = "Вы точно хотите удалить все товары корзины? Отменить данное действие будет невозможно.";
+"cart.delete_one_button" = "Удалить товар";
+"cart.delete_all_button" = "Удалить товары";
+
+"profile.title" = "Мой профиль";
+"profile.tabbar_title" = "Профиль";
+"profile.edit" = "Редактировать";
+"profile.about_app" = "О приложении";
+"profile.color_theme.title" = "Выбор темы приложения";
+"profile.color_theme.dark" = "Темная тема";
+"profile.color_theme.light" = "Светлая тема";
+"profile.balance" = "Мой баланс";
+
+"admin.my_products" = "Мои товары";
+"admin.create_product.button" = "Создать карточку";
+"admin.create_product.category" = "Выберите категорию товара";
+"admin.create_product.view" = "Внешний вид";
+"admin.create_product.add_image" = "Добавить фото";
+"admin.create_product.add_name.title" = "Укажите название товара";
+"admin.create_product.add_name.placeholder" = "Введите название";
+"admin.create_product.add_description.title" = "Добавьте описание";
+"admin.create_product.add_description.placeholder" = "Введите описание";
+"admin.create_product.add_cost.title" = "Укажите стоимость";
+"admin.create_product.add_cost.placeholder" = "Введите значение в бонусах";
+"admin.create_product.preview.title" = "Предпросмотр карточки";
+"admin.create_product.preview.post" = "Опубликовать";
+"admin.create_product.done" = "Карточка товара создана";
+
+"catalog.title" = "Каталог";
+"catalog.search" = "Искать на СкороХод";
+"catalog.categories.home" = "Дом";
+"catalog.categories.clothes" = "Одежда";
+"catalog.categories.beauty" = "Красота";
+"catalog.categories.accessories" = "Аксессуары";
+"catalog.categories.electronics" = "Электроника";
+"catalog.categories.children" = "Детское";
+"catalog.categories.animals" = "Зоотовары";
+"catalog.categories.sport" = "Спорт";
+
+"order_history.title" = "Мои заказы";
+"order_history.orders" = "Заказы";
+"order_history.order_from" = "Заказ от";
+"order_history.order_date_done" = "Дата доставки:";
+"order_history.order_date_expected" = "Ожидаемая дата доставки:";
+
+"order.delivery.title" = "Адрес доставки";
+"order.delivery.country" = "Страна";
+"order.delivery.city" = "Город/Населенный пункт";
+"order.delivery.street" = "Улица";
+"order.delivery.home" = "Строение/Корпус";
+"order.delivery.next" = "Далее";
+
+"order.making_order.title" = "Оформление заказа";
+"order.making_order.order" = "Ваш заказ";
+"order.making_order.amount" = "шт.";
+"order.making_order.address" = "Доставка";
+"order.making_order.delivery_date" = "Ожидаемая дата доставки";
+"order.making_order.payment.title" = "Способ оплаты";
+"order.making_order.payment.card" = "Картой при получении";
+"order.making_order.payment.cash" = "Наличными при получении";
+
+"order.order_done.title" = "Заказ оформлен";
+"order.order_done.next" = "Хорошо";
+
+"order.return.button" = "Оформить возврат";
+"order.return.confirm.title" = "Вы уверены, что хотите вернуть посылку?";
+"order.return.confirm.yes" = "Да";
+"order.return.confirm.no" = "Нет";
+
+"products.add_to_cart" = "Добавить в корзину";
+"products.added_to_cart" = "В корзине";
+"products.description" = "Описание";
+
+"auth.title" = "Вход в профиль";
+"auth.login" = "Войти";
+"auth.forget_password" = "Забыли пароль?";
+
+"registration.title" = "Создание аккаунта";
+"registration.signup" = "Зарегистрироваться";
+"registration.password" = "Пароль";
+"registration.confirmation_password" = "Подтверждение пароля";
+"registration.email_phone" = "Номер телефона или Email";
+
+"start.app_name" = "СкороХод";
+"start.app_slogan" = "Место быстрых покупок";
+"start.signup" = "Зарегистрироваться";
+"start.login" = "Авторизоваться";
+"start.catalog_transition" = "Перейти к каталогу";
+
+"filter.title" = "Фильтры";
+"filter.cancel" = "Отмена";
+"filter.apply" = "Применить";
+"filter.price" = "Цена";
+"filter.price.from" = "от";
+"filter.price.to" = "до";
+"filter.all_categories" = "Все категории";
+
+"admin.edit_order.status" = "Статус";
+"admin.edit_order.save" = "Сохранить изменения";
+"admin.edit_order.order" = "Заказ №";
+
+"review.title" = "Оцените последний заказ";
+"review.done" = "Готово";

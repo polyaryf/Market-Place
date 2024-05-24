@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (5.7.1)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - SnapKit (5.6.0)
+  - SwiftGen (6.6.2)
+  - SwiftLint (0.52.2)
+
+DEPENDENCIES:
+  - Moya (~> 15.0)
+  - SnapKit (~> 5.6.0)
+  - SwiftGen (~> 6.6.2)
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Moya
+    - SnapKit
+    - SwiftGen
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftGen: 1366a7f71aeef49954ca5a63ba4bef6b0f24138c
+  SwiftLint: 1ac76dac888ca05cb0cf24d0c85887ec1209961d
+
+PODFILE CHECKSUM: 85842cb672290b059d366d98d7dc83c16391ef52
+
+COCOAPODS: 1.11.3
