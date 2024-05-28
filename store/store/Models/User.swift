@@ -8,9 +8,14 @@
 import Foundation
 
 struct User {
+    let id: Int64
     let name: String
     let surname: String
     let email: String
+    let address: String
     let balance: Int
     let phoneNumber: String
+    let state: State
+    let notification: Notification
+    let authority: String
 }
